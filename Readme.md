@@ -5,3 +5,8 @@ Technical Stack Frontend: React and Redux for state management. Backend: Strapi 
 Setup & Deployment Strapi: Deploy the backend on preferred platform such as Heroku, Digital Ocean, or Vercel. React.js: The frontend app is deployable on platforms like Vercel, Netlify or a custom server.
 
 Environment Ensure environment variables are correctly set for API endpoints, Stripe credentials and other configurations.
+
+
+
+https://github.com/ankitkalra25/strapi_ecom_app/assets/45238515/e2ffc9d8-eeed-4d9f-9f05-f122c9a21f7c
+
